@@ -1,4 +1,5 @@
-[adult.csv](https://github.com/user-attachments/files/21342240/adult.csv)# employee-salary-prediction
+[adult.csv](https://github.com/user-attachments/files/21342240/adult.csv)
+# employee-salary-prediction
 Machine Learning project to predict whether an individual's income exceeds $50K/year using the UCI Adult Census Income dataset. Includes data preprocessing, outlier removal, feature encoding, and evaluation of multiple ML models.
 ---
 # Dataset
